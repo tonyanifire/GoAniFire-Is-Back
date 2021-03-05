@@ -1,2 +1,2 @@
 # GoAniFire
-Note: This is not finished yet!
+Sorry, not working at the moment!
